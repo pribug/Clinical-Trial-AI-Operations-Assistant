@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-core
+langchain-ollama
