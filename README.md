@@ -2,6 +2,8 @@
 
 An AI-assisted clinical research operations tool designed to support preliminary study planning and research-site feasibility assessment.
 
+https://clinical-trial-assistant-pri.streamlit.app/
+
 The application combines a local Large Language Model (LLM) with deterministic Python-based validation and scoring. The goal is to demonstrate how AI can assist clinical research workflows while keeping structured checks, numerical calculations, and human review outside the LLM.
 
 > **Important:** This is a research/portfolio demonstration tool. It is not a clinical decision-support system and does not provide clinical, statistical, regulatory, or scientific validation.
