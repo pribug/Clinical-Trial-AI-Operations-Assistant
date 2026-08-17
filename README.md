@@ -7,6 +7,8 @@ The application combines a local Large Language Model (LLM) with deterministic P
 
 > **Important:** Local LLM requirement: The AI generation and explanation features require Ollama with the specified model running locally. The Streamlit interface can be deployed separately, but Streamlit Community Cloud cannot directly access a locally running Ollama instance.
 
+https://clinical-trial-assistant-pri.streamlit.app/
+
 > **Important:** This is a research/portfolio demonstration tool. It is not a clinical decision-support system and does not provide clinical, statistical, regulatory, or scientific validation.
 
 ---
